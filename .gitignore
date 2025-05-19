@@ -1,0 +1,6 @@
+# Ignorar arquivos e pastas sensíveis
+secrets.toml
+__pycache__/
+~$TACO.xlsx
+
+

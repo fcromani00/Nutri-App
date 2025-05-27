@@ -8,3 +8,4 @@ langchain-community
 faiss-cpu
 google-generativeai
 PyPDF2
+pandas
